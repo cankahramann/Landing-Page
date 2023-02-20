@@ -114,8 +114,16 @@ body{
     font-size:36px;
     font-style: italic;
     color: #1F2937;
-    height:300px;
+    height:auto;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding:150px 400px
 }
+.quote{
+    display: flex;
+}
+
+
+
+/* --------------- The Third Section is Over-----------------------*/
