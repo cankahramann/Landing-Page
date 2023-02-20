@@ -66,3 +66,42 @@ body{
     color:#E5E7EB;
     align-self: flex-start;
 }
+
+
+/* ------------------The first section is over------------------*/
+
+.sec-2 {
+    display: flex;
+    flex-direction: column;
+}     
+
+.pics {
+    border: 5px solid #555;
+  }
+
+.info{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+    margin-top:29px;
+    margin-bottom: 37px;
+    align-self: center;
+}
+
+.portraits {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.subinfo {
+    font-size: 18px;
+    display: flex;
+    margin-top:12px;
+    margin-right:133px;
+    margin-left:133px;
+    margin-bottom:51px;
+    gap:60px;
+    justify-content:space-between ;
+}
+
+/* --------------- The Second Section is Over-----------------------*/
